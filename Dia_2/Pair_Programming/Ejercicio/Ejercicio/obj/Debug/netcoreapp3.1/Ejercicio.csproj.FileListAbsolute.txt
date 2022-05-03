@@ -1,0 +1,14 @@
+C:\Users\ianpo\Desktop\DevPlace\Dia_2\Pair_Programming\Ejercicio\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.exe
+C:\Users\ianpo\Desktop\DevPlace\Dia_2\Pair_Programming\Ejercicio\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.deps.json
+C:\Users\ianpo\Desktop\DevPlace\Dia_2\Pair_Programming\Ejercicio\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.runtimeconfig.json
+C:\Users\ianpo\Desktop\DevPlace\Dia_2\Pair_Programming\Ejercicio\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.runtimeconfig.dev.json
+C:\Users\ianpo\Desktop\DevPlace\Dia_2\Pair_Programming\Ejercicio\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.dll
+C:\Users\ianpo\Desktop\DevPlace\Dia_2\Pair_Programming\Ejercicio\Ejercicio\Ejercicio\bin\Debug\netcoreapp3.1\Ejercicio.pdb
+C:\Users\ianpo\Desktop\DevPlace\Dia_2\Pair_Programming\Ejercicio\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.csproj.AssemblyReference.cache
+C:\Users\ianpo\Desktop\DevPlace\Dia_2\Pair_Programming\Ejercicio\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianpo\Desktop\DevPlace\Dia_2\Pair_Programming\Ejercicio\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.AssemblyInfoInputs.cache
+C:\Users\ianpo\Desktop\DevPlace\Dia_2\Pair_Programming\Ejercicio\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.AssemblyInfo.cs
+C:\Users\ianpo\Desktop\DevPlace\Dia_2\Pair_Programming\Ejercicio\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\ianpo\Desktop\DevPlace\Dia_2\Pair_Programming\Ejercicio\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.dll
+C:\Users\ianpo\Desktop\DevPlace\Dia_2\Pair_Programming\Ejercicio\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.pdb
+C:\Users\ianpo\Desktop\DevPlace\Dia_2\Pair_Programming\Ejercicio\Ejercicio\Ejercicio\obj\Debug\netcoreapp3.1\Ejercicio.genruntimeconfig.cache
