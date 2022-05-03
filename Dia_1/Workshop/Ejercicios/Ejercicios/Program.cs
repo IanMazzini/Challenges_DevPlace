@@ -50,7 +50,19 @@ namespace Ejercicios
                         break;
 
                     case 10:
-                        obj.Ejercicio10();
+                        obj.Ejercicio11();
+                        break;
+
+                    case 13:
+                        obj.Ejercicio13();
+                        break;
+
+                    case 14:
+                        obj.Ejercicio14();
+                        break;
+
+                    case 15:
+                        obj.Ejercicio15();
                         break;
 
                     default:
@@ -232,7 +244,7 @@ namespace Ejercicios
             Console.WriteLine("El area del trapecio es: " + area);
         }
 
-        public void Ejercicio10()
+        public void Ejercicio11()
         {
             int alturaIntroducida;
 
@@ -271,6 +283,69 @@ namespace Ejercicios
                 espacios--;
             }
  
+        }
+
+        public void Ejercicio13()
+        {
+            double salario, salarioTotal, incremento, nuevoSalario;
+
+            Console.WriteLine("Escriba su salario actual");
+            salario = Int32.Parse(Console.ReadLine());
+
+            incremento = salario * 0.25;
+            nuevoSalario = salario + incremento;
+            salarioTotal = nuevoSalario * 10;
+
+            Console.WriteLine("Tu nuevo salario con un incremento del 25% es $" + nuevoSalario + ".");
+            Console.WriteLine("Tu salario total por haber trabajado 10 meses es de $" + salarioTotal + ".");
+        }
+
+        public void Ejercicio14()
+        {
+            int numero_de_aprobados, numero_de_desaprobados, numero_de_notables, numero_de_sobresalientes;
+            double porcentaje_superados, porcentaje_desaprobados, porcentaje_aprobados, porcentaje_notables, porcentaje_sobresalientes;
+            int total;
+            Console.WriteLine("Ingresa el valor de numero de aprobados:");
+            numero_de_aprobados = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingresa el valor de numero de desaprobados:");
+            numero_de_desaprobados = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingresa el valor de numero de notables:");
+            numero_de_notables = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingresa el valor de numero de sobresalientes:");
+            numero_de_sobresalientes = Int32.Parse(Console.ReadLine());
+
+            total = numero_de_desaprobados + numero_de_aprobados + numero_de_notables + numero_de_sobresalientes;
+
+            porcentaje_superados = 100 * (numero_de_aprobados + numero_de_notables + numero_de_sobresalientes) / total;
+            porcentaje_desaprobados = 100 * numero_de_desaprobados / total;
+            porcentaje_aprobados = 100 * numero_de_aprobados / total;
+            porcentaje_notables = 100 * numero_de_notables / total;
+            porcentaje_sobresalientes = 100 * numero_de_sobresalientes / total;
+
+            Console.WriteLine("Valor de porcentaje aprobados: " + porcentaje_aprobados);
+            Console.WriteLine("Valor de porcentaje desaprobados: " + porcentaje_desaprobados);
+            Console.WriteLine("Valor de porcentaje notables: " + porcentaje_notables);
+            Console.WriteLine("Valor de porcentaje sobresalientes: " + porcentaje_sobresalientes);
+            Console.WriteLine("Valor de total: " + total);
+        }
+
+        public void Ejercicio15()
+        {
+            double costo_total, costo_comprador, ganancia, impuestos;
+
+            Console.WriteLine("Ingrese el costo total del Vehiculo:");
+            costo_total = Int32.Parse(Console.ReadLine());
+
+            ganancia = costo_total * 0.12;
+            impuestos = costo_total * 0.06;
+
+            costo_comprador = costo_total + ganancia + impuestos;
+
+            Console.WriteLine("El costo para el vendedor: $" + costo_total);
+            Console.WriteLine("El costo para el comprador: $" + costo_comprador);
         }
     }
 }
