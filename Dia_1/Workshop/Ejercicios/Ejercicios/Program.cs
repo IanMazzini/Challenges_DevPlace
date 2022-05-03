@@ -49,7 +49,7 @@ namespace Ejercicios
                         obj.Ejercicio9();
                         break;
 
-                    case 10:
+                    case 11:
                         obj.Ejercicio11();
                         break;
 
@@ -190,19 +190,15 @@ namespace Ejercicios
 
         public void Ejercicio7()
         {
-            int segundos;
-            int minutos;
-            int horas;
+            Console.Write("Escriba la cantidad de segundos que quiere convertir: ");
+            int segundos = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Ingrese una cantidad de segundos: ");
-            segundos = Int32.Parse(Console.ReadLine());
-
-            minutos = segundos / 60;
-            horas = segundos / 3600;
-
-            Console.WriteLine("Horas: " + horas);
-            Console.WriteLine("Minutos: " + minutos);
-            Console.WriteLine("Segundos: " + segundos);
+            int minutosH = segundos / 60;
+            int Rsegundo = segundos % 60;
+            int Rhora = minutosH / 60;
+            int Rminutos = minutosH % 60;
+            Console.WriteLine("\n{0} segundos equivale a:\n{1} horas, {2} minutos y {3} segundos", segundos, Rhora, Rminutos, Rsegundo);
+            Console.ReadKey();
         }
 
         public void Ejercicio8()
