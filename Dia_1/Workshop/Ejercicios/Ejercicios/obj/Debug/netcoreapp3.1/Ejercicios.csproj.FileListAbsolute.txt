@@ -1,0 +1,28 @@
+C:\Users\ianpo\Desktop\DevPlace\Dia 1\Workshop\Ejercicios\Ejercicios\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.exe
+C:\Users\ianpo\Desktop\DevPlace\Dia 1\Workshop\Ejercicios\Ejercicios\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.deps.json
+C:\Users\ianpo\Desktop\DevPlace\Dia 1\Workshop\Ejercicios\Ejercicios\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.runtimeconfig.json
+C:\Users\ianpo\Desktop\DevPlace\Dia 1\Workshop\Ejercicios\Ejercicios\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.runtimeconfig.dev.json
+C:\Users\ianpo\Desktop\DevPlace\Dia 1\Workshop\Ejercicios\Ejercicios\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.dll
+C:\Users\ianpo\Desktop\DevPlace\Dia 1\Workshop\Ejercicios\Ejercicios\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.pdb
+C:\Users\ianpo\Desktop\DevPlace\Dia 1\Workshop\Ejercicios\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\ianpo\Desktop\DevPlace\Dia 1\Workshop\Ejercicios\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianpo\Desktop\DevPlace\Dia 1\Workshop\Ejercicios\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\ianpo\Desktop\DevPlace\Dia 1\Workshop\Ejercicios\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.AssemblyInfo.cs
+C:\Users\ianpo\Desktop\DevPlace\Dia 1\Workshop\Ejercicios\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\ianpo\Desktop\DevPlace\Dia 1\Workshop\Ejercicios\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.dll
+C:\Users\ianpo\Desktop\DevPlace\Dia 1\Workshop\Ejercicios\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.pdb
+C:\Users\ianpo\Desktop\DevPlace\Dia 1\Workshop\Ejercicios\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.genruntimeconfig.cache
+C:\Users\ianpo\Desktop\DevPlace\Dia_1\Workshop\Ejercicios\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.exe
+C:\Users\ianpo\Desktop\DevPlace\Dia_1\Workshop\Ejercicios\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.deps.json
+C:\Users\ianpo\Desktop\DevPlace\Dia_1\Workshop\Ejercicios\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.runtimeconfig.json
+C:\Users\ianpo\Desktop\DevPlace\Dia_1\Workshop\Ejercicios\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.runtimeconfig.dev.json
+C:\Users\ianpo\Desktop\DevPlace\Dia_1\Workshop\Ejercicios\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.dll
+C:\Users\ianpo\Desktop\DevPlace\Dia_1\Workshop\Ejercicios\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.pdb
+C:\Users\ianpo\Desktop\DevPlace\Dia_1\Workshop\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\ianpo\Desktop\DevPlace\Dia_1\Workshop\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianpo\Desktop\DevPlace\Dia_1\Workshop\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\ianpo\Desktop\DevPlace\Dia_1\Workshop\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.AssemblyInfo.cs
+C:\Users\ianpo\Desktop\DevPlace\Dia_1\Workshop\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\ianpo\Desktop\DevPlace\Dia_1\Workshop\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.dll
+C:\Users\ianpo\Desktop\DevPlace\Dia_1\Workshop\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.pdb
+C:\Users\ianpo\Desktop\DevPlace\Dia_1\Workshop\Ejercicios\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.genruntimeconfig.cache
