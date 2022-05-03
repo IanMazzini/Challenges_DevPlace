@@ -250,7 +250,7 @@ namespace Ejercicios
 
             int altura = 1;
             int i = 0;
-            int espacios = alturaIntroducida - 1; 
+            int espacios = alturaIntroducida - 1;
 
             while (altura <= alturaIntroducida)
             {
@@ -278,7 +278,6 @@ namespace Ejercicios
                 altura++;
                 espacios--;
             }
- 
         }
 
         public void Ejercicio13()
