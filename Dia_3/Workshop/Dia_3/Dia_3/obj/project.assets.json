@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ianpo\\Desktop\\Challenges_DevPlace\\Dia_1\\Workshop\\Ejercicios\\Ejercicios\\Ejercicios.csproj",
-      "projectName": "Ejercicios",
-      "projectPath": "C:\\Users\\ianpo\\Desktop\\Challenges_DevPlace\\Dia_1\\Workshop\\Ejercicios\\Ejercicios\\Ejercicios.csproj",
+      "projectUniqueName": "C:\\Users\\ianpo\\Desktop\\Challenges_DevPlace\\Dia_3\\Workshop\\Dia_3\\Dia_3\\Dia_3.csproj",
+      "projectName": "Dia_3",
+      "projectPath": "C:\\Users\\ianpo\\Desktop\\Challenges_DevPlace\\Dia_3\\Workshop\\Dia_3\\Dia_3\\Dia_3.csproj",
       "packagesPath": "C:\\Users\\ianpo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ianpo\\Desktop\\Challenges_DevPlace\\Dia_1\\Workshop\\Ejercicios\\Ejercicios\\obj\\",
+      "outputPath": "C:\\Users\\ianpo\\Desktop\\Challenges_DevPlace\\Dia_3\\Workshop\\Dia_3\\Dia_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ianpo\\AppData\\Roaming\\NuGet\\NuGet.Config",
