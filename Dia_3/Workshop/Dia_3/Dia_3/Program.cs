@@ -176,6 +176,11 @@ namespace Dia_3
 
             reemplazar.reemplazar(myStack, nuevo, viejo);
         }
+
+        public void Ejercicio6()
+        {
+
+        }
     }
 
         
