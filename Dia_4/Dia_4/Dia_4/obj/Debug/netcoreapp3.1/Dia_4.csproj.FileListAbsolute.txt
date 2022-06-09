@@ -1,0 +1,14 @@
+C:\Users\ianpo\Desktop\Challenges_DevPlace\Dia_4\Dia_4\Dia_4\bin\Debug\netcoreapp3.1\Dia_4.exe
+C:\Users\ianpo\Desktop\Challenges_DevPlace\Dia_4\Dia_4\Dia_4\bin\Debug\netcoreapp3.1\Dia_4.deps.json
+C:\Users\ianpo\Desktop\Challenges_DevPlace\Dia_4\Dia_4\Dia_4\bin\Debug\netcoreapp3.1\Dia_4.runtimeconfig.json
+C:\Users\ianpo\Desktop\Challenges_DevPlace\Dia_4\Dia_4\Dia_4\bin\Debug\netcoreapp3.1\Dia_4.runtimeconfig.dev.json
+C:\Users\ianpo\Desktop\Challenges_DevPlace\Dia_4\Dia_4\Dia_4\bin\Debug\netcoreapp3.1\Dia_4.dll
+C:\Users\ianpo\Desktop\Challenges_DevPlace\Dia_4\Dia_4\Dia_4\bin\Debug\netcoreapp3.1\Dia_4.pdb
+C:\Users\ianpo\Desktop\Challenges_DevPlace\Dia_4\Dia_4\Dia_4\obj\Debug\netcoreapp3.1\Dia_4.csproj.AssemblyReference.cache
+C:\Users\ianpo\Desktop\Challenges_DevPlace\Dia_4\Dia_4\Dia_4\obj\Debug\netcoreapp3.1\Dia_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianpo\Desktop\Challenges_DevPlace\Dia_4\Dia_4\Dia_4\obj\Debug\netcoreapp3.1\Dia_4.AssemblyInfoInputs.cache
+C:\Users\ianpo\Desktop\Challenges_DevPlace\Dia_4\Dia_4\Dia_4\obj\Debug\netcoreapp3.1\Dia_4.AssemblyInfo.cs
+C:\Users\ianpo\Desktop\Challenges_DevPlace\Dia_4\Dia_4\Dia_4\obj\Debug\netcoreapp3.1\Dia_4.csproj.CoreCompileInputs.cache
+C:\Users\ianpo\Desktop\Challenges_DevPlace\Dia_4\Dia_4\Dia_4\obj\Debug\netcoreapp3.1\Dia_4.dll
+C:\Users\ianpo\Desktop\Challenges_DevPlace\Dia_4\Dia_4\Dia_4\obj\Debug\netcoreapp3.1\Dia_4.pdb
+C:\Users\ianpo\Desktop\Challenges_DevPlace\Dia_4\Dia_4\Dia_4\obj\Debug\netcoreapp3.1\Dia_4.genruntimeconfig.cache
